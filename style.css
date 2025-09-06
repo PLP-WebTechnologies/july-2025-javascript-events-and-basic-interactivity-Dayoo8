@@ -1,0 +1,74 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.dark-mode {
+  background-color: #ac6868;
+  color: white;
+}
+
+.counter {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.faq-answer {
+  display: none;
+  margin-top: 5px;
+  color: gray;
+}
+.faq-question {
+  cursor: pointer;
+  color: blue;
+}
+.error {
+  color: red;
+}
+.success {
+  color: green;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.dark-mode {
+  background-color: #222;
+  color: white;
+}
+
+.counter {
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.faq-answer {
+  display: none;
+  margin-top: 5px;
+  color: gray;
+}
+.faq-question {
+  cursor: pointer;
+  color: blue;
+}
+.error {
+  color: red;
+}
+.success {
+  color: green;
+}
